@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on cloud server programming for an AI Edu startup, Avivaar, Inc.<br>🤝 I’m looking for help with AWS best practices<br>🌱 I’m currently learning about state machine behavior and backtracking<br>💬 Ask me about chatbot creation with RAG, python automation, or Unity game development
+🔭 I’m currently working on cloud server programming for an AI Edu startup, Avivaar, Inc.<br>🌱 I’m currently learning about state machine behavior and backtracking<br>💬 Ask me about chatbot creation with RAG, python automation, or Unity game development
 
 
 # 💻 Tech Stack:

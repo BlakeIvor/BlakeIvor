@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Blake</h1>
 <h3 align="center">A curious developer currently studying at Clark University focusing on development of AI and XR solutions</h3>
 
-- 🔭 I’m currently working on **Web, AR, and image recognition**
+- 🔭 I’m currently working on **Web, mobile AR, and real-time image recognition using server side analysis**
 
 - 🌱 I’m currently learning **Python Flask, Local LLM hosting, and OpenCV**
 

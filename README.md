@@ -1,17 +1,67 @@
 <h1 align="center">Hey 👋, I'm Blake</h1>
-<h3 align="center">A curious developer currently studying at Clark University focusing on development of AI and XR solutions</h3>
-
-- 🔭 I’m currently working on **Web, mobile AR, and real-time image recognition using server side analysis**
-
-- 🌱 I’m currently learning **Python Flask, Local LLM hosting, and OpenCV**
-
-- 👨‍💻 All of my projects are available at https://blake-shea-portfolio-site.vercel.app/
-
-- 📫 Reach me at **blakeivorshea@gmail.com**
-
+<h3 align="center">AI, XR & Full-Stack Developer | B.S. Computer Science, Clark University (Graduating May 2026)</h3>
 
 <p align="center">
+I design and develop full-stack systems, real-time multiplayer platforms, and interactive XR applications.  
+My work spans backend architecture, AI integration, and cloud-deployed solutions, with a focus on scalable, high-performance platforms.  </p>
+<p>Portfolio: <a href="https://blake-shea-portfolio-site.vercel.app/">blake-shea-portfolio-site.vercel.app</a> | Contact: <a href="mailto:blakeivorshea@gmail.com">blakeivorshea@gmail.com</a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 🔨 Featured Projects
+
+### 🎮 **AutoMates — Multiplayer Auto-Battler Platform**
+**Unity • C# • ASP.NET Core • PostgreSQL**  
+A real-time multiplayer autobattler with persistent progression and a stateful server architecture.  
+- 30% faster server response times through in-memory caching  
+- Custom **WinForms admin suite** for live dungeon monitoring, events, and player management  
+- Hybrid REST + long-lived connections for real-time combat resolution  
+
+---
+
+### 🎮 **GameRec.AI — AI-Powered Game Recommendation Platform**  
+**Next.js • FastAPI • Supabase • Steam API**  
+Full-stack recommendation system with **Steam OAuth**, embeddings, and conversational AI search.  
+- Algorithmic similarity + vector-based AI recommendations  
+- Clean dashboard showing top genres, playtime, and personalized insights  
+
+---
+
+### 📱 **AR Learning Companion App (GPT-4o + ElevenLabs)**  
+**Unity • AR Foundation • RAG • FastAPI • AWS EC2**  
+Real-time conversational AR assistant for contextual, adaptive learning.  
+- Cut inference time to **10% of prototype** using RAG + Docker optimizations  
+- Cross-platform mobile deployment  
+
+**Demo Video:**  
+https://www.youtube.com/watch?v=ARC8aEARXdA
+</div>
+
+
+
+## 🧰 Skills & Tools
+
+**Languages:** Python • C# • SQL • TypeScript • HTML / CSS  
+**Frameworks:** FastAPI • ASP.NET Core • Next.js • Django • Unity  
+**AI / CV:** OpenCV • PyTorch • TensorFlow • RAG pipelines • N8N • Llamaindex    
+**Tools:** Docker • Git • AWS • Supabase • PostgreSQL • MongoDB  
+
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
+</p>
+
+---
+
+### 📫 Connect  
+<p align="center">
+  <a href="https://linkedin.com/in/blake27">LinkedIn</a> •
+  <a href="https://github.com/blakeivor">GitHub</a> •
+  <a href="mailto:blakeivorshea@gmail.com">Email</a>
+</p>

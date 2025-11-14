@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python Flask, Local LLM hosting, and OpenCV**
 
-- 👨‍💻 All of my projects are available at [https://blakeivor.github.io/Portfolio2025/](https://blakeivor.github.io/Portfolio2025/)
+- 👨‍💻 All of my projects are available at https://blake-shea-portfolio-site.vercel.app/
 
 - 📫 Reach me at **blakeivorshea@gmail.com**
 
